@@ -1,0 +1,9 @@
+#input-text {
+    overflow: hidden;
+}
+
+#output-text {
+    padding: 10px;
+    word-wrap: break-word;
+    width: 100%;
+}
